@@ -49,3 +49,23 @@ Visit the following [Workshop Links](http://libguides.vassar.edu/git-cli/links) 
 ---
 
 **Basic Command Line Navigation**
+
+"File navigation" literally means navigating between files, but is often used to refer to any kind of navigating, moving, editing, creating, and deleting files and folders.
+
+Useful terms:
+* **Directory:** Folder (contains individual files, can exist inside other folders/directories).
+* **Home Directory:** User (or Login) Folder. If you log into a Vassar Libraries computer with your Vassar account, the home directory will be your Vassar username (example: [Carolyn Moritz](http://github.com/exsilica)'s home directory is `cmoritz`). Represented in the command line as `~`
+* **Working Directory:** The current directory in which you are working.
+
+Navigation commands:
+* `cd`  
+Change directory  
+    * `cd ~` - Change to Home directory
+    * `cd ~/Workshops/DiSSCo/` - Beginning at my Home directory, change to `Workshops` then to `DiSSCo`
+* `pwd`  
+Print working directory
+* `ls`
+List files in this directory
+    * `ls -a` - List **all** files, including hidden files
+    * `ls -l` - Show files as a list, with permissions and owner info
+    * `ls -al` - Show **all** files as a list
