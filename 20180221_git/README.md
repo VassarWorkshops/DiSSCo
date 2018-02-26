@@ -33,4 +33,19 @@ Whichever option you find most comfortable will be sufficient for this workshop.
 
 ---
 
-**The remainder of this reference sheet will be available shortly. Check back for updates!**
+**Follow Along**
+
+Visit the following [Workshop Links](http://libguides.vassar.edu/git-cli/links) tutorials:
+1. [Try Git!](https://try.github.io/levels/1/challenges/1)
+    * *Optional* 
+    * Get familiar with basic git commands
+    * Useful for when you cannot configure your own computer (or aren't sure you want to commit the time!)
+2. [Hello, World!](https://guides.github.com/activities/hello-world/)
+    * Assumes you've created a GitHub account
+    * Does not require any local (on your own computer) configuration
+    
+ Hang tight! We will revisit git after we've practiced a couple CLI commands.
+    
+---
+
+**Basic Command Line Navigation**
