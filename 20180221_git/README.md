@@ -111,5 +111,7 @@ Try it!
 * Run the combined `allTogether.sh` script with the following syntax:  
     * `./allTogether.sh`
     * `sudo ./allTogether.sh`  
-What happens? Permissions were not really covered in the workshop but they feel like a pretty big deal, don't they? [This provides some hints](https://www.cyberciti.biz/faq/run-execute-sh-shell-script/), but check out our upcoming **Intro to Linux** workshop for more exploration!
+What happens? 
+        * **!** Permissions feel like a pretty big deal, don't they? [This provides some hints](https://www.cyberciti.biz/faq/run-execute-sh-shell-script/).  
+        Learn more at: **Intro to Linux** | Apr. 11, 2018 | 3:30 pm | Sci Vis Lab
 * Make a new directory in `DiSSCo` with your own workshop ideas. It can be a text file, a .doc, a presentation, a video - whatever you want! Commit the change and push it up to your `DiSSCo` clone.
