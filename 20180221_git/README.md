@@ -62,7 +62,7 @@ Syntax notes:
 * **Parameter:** (Also called **argument**) Required addition to command. Written below like this: `command [arg]` where `[arg]` means the command isn't complete without something else.
 * **Options:** Not required, but additional modifiers that expand on the original command. Usually begin with `-`
 * `.` Current directory
-* `..` Up one directory (and so on with `...` indefinitely)
+* `..` Up one directory (and so on with `../..` indefinitely)
 
 Navigation commands:
 * `cd [arg]`  
