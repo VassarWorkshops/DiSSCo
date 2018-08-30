@@ -1,5 +1,4 @@
-## February 21, 2018: Git and the Command Line
-### Spring 2018 Workshop Series
+## Git and the Command Line
 
 Workshop contact: [Carolyn Moritz](mailto:cmoritz@vassar.edu "cmoritz@vassar.edu")
 
